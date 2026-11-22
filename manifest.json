@@ -1,0 +1,8 @@
+{
+  "id": "table-enhancer",
+  "name": "Table Enhancer",
+  "version": "0.1.0",
+  "author": "Chakyiu",
+  "description": "Insert and edit Markdown tables from a toolbar above the note.",
+  "main": "main.js"
+}
